@@ -1,0 +1,22 @@
+{
+  "name": "v211006",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "testcafe"
+  },
+  "dependencies": {
+    "csv-parse": "^5.0.4",
+    "testcafe": "^1.19.0",
+    "testcafe-reporter-html": "^1.4.6"
+  },
+  "devDependencies": {
+    "eslint": "^8.19.0",
+    "eslint-plugin-testcafe-community": "^2.0.0",
+    "testcafe-blink-diff": "^0.4.11"
+  },
+  "keywords": [],
+  "author": "",
+  "description": ""
+}

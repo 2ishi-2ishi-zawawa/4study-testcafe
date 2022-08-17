@@ -16,4 +16,5 @@ testcafe.test(
                     .click(Selector(checkLabel))// ラベルをクリック
                     .expect(checkBox.checked).eql(true)//チェックボックスを確認(アサート)
                     .wait(5000)// 目視でも確認できるよう余裕持って5000ミリ秒wait入れてみた
+                    //git push用コメント
     });
